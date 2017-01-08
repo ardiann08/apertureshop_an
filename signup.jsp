@@ -11,7 +11,7 @@
           <label>Full Name</label>
             <input type="text" class="form-control" name="fname" placeholder="Example: John Doe">
 
-            <labe>Username</label>
+            <label>Username</label>
             <input type="text" class="form-control" name="uname" placeholder="Example: johndoe123">            
 
             <label>Email Address</label>
